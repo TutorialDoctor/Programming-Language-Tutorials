@@ -9,7 +9,6 @@ Here you will learn the basics of web development.
 
 ![](web_development_basics/screenshot.png)
 
-![](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/WebDev%20Tutorial/screenshot.png?raw=true)
 
 
 The tutorial is inside of the .html file.
