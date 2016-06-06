@@ -1,4 +1,20 @@
 # Programming-Language-Tutorials
-A collection of programming language tutorials by the Tutorial Doctor
+A collection of programming language tutorials
 
-- [ ] Create More Tutorials
+## Python
+
+## Ruby
+
+## Javascript
+
+## C#
+
+## C++
+
+## HTML
+
+## CSS
+	
+- LESS
+	- [Introduction](https://www.youtube.com/watch?v=5mgsQ2csCIU)
+- SASS
