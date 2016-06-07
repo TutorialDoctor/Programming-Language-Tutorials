@@ -13,6 +13,8 @@ A collection of programming language tutorials
 
 ## C++
 
+- [Introduction](https://www.youtube.com/watch?v=1MKhigIml3E&list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt&index=1) 
+
 ## HTML
 
 ## CSS
