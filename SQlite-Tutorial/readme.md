@@ -13,3 +13,6 @@ Resources I am using to learn SQL for this tutorial are:
 - A great video tutorial [here](https://www.youtube.com/watch?v=f00OmNGwgZs)
 
 [What is a databse](https://github.com/TutorialDoctor/Software_Development/blob/master/More-Info/Database%20Tutorial.md)?
+
+Additional Resources:
+[Sqlite Github Tutorial](https://github.com/rasbt/python_reference/tree/master/tutorials/sqlite3_howto)
