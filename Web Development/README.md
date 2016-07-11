@@ -17,6 +17,6 @@ The tutorial is inside of the .html file.
 
 ## Video Tutorials
 
-- [Create desktop apps](https://www.youtube.com/watch?v=GUuWowRP5-Q&feature=youtu.be) with [nwjs](http://nwjs.io) and [hypeapp](http://tumult.com)
+- [Create desktop apps](https://www.youtube.com/watch?v=GUuWowRP5-Q&feature=youtu.be) with [nwjs](http://nwjs.io) and [Hype](http://tumult.com)
 
 # Learn Web Development with the [Odin Project](http://www.theodinproject.com/home)
