@@ -16,3 +16,4 @@ Resources I am using to learn SQL for this tutorial are:
 
 Additional Resources:
 [Sqlite Github Tutorial](https://github.com/rasbt/python_reference/tree/master/tutorials/sqlite3_howto)
+[Python Sqlite Tutorial](http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html)
