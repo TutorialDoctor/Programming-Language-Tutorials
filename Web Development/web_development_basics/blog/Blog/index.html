@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"><script src="script.js"></script>
+    <title></title>
+</head>
+    
+<body>
+    <h1 id="title">Raphael's Blog</h1>
+    <img src="http://icons.iconarchive.com/icons/hopstarter/face-avatars/256/Male-Face-G3-icon.png"/>
+    <br>
+    
+    <i id="quote">No brighter than the next guy. Certainly brighter than the last guy.  <a id="email" href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Email Me</a></i>
+    
+    <br>
+    
+    <button onclick="change_text()">Press Me if you dare</button>
+    
+    
+    <input type="button" value="HelloAgain" id="b1">
+    
+    <script>
+    function change_text(){
+        var last_entry = document.getElementById('last_entry');
+        var t_area = document.getElementById("t_area");
+        last_entry.innerHTML=t_area.value;}
+    </script>
+    
+    <br><textarea id="t_area" style="width:100%;height:128px"></textarea><br>
+    <br><br>
+    
+    <b>May. 26 2015</b>
+    <p id="last_entry">lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim maxime labore adipisci sunt quisquam odio similique corporis hic atque ad et aspernatur facere rerum voluptatem nisi modi culpa perferendis laudantium eos odit velit debitis aut repellat fugiat ex necessitatibus aliquam eligendi quo cum sit quod nemo amet unde suscipit accusamus officiis aperiam dicta in a mollitia animi alias perspiciatis eaque neque tempora minus praesentium provident earum blanditiis ip</p>
+    
+    <b>March. 17 2015</b>
+    <p class="entry">exercitationem quidem illo eum ab quas quia consectetur consequatur ratione illum obcaecati dolore veritatis repellendus veniam saepe magnam quis sapiente aliquid consequuntur numquam quaerat est quam quasi cupiditate harum placeat nam accusantium optio laboriosam laborum distinctio rem reiciendis inventore doloremque molestias corrupti itaque commodi expedita dolorem eius totam reprehenderit incidunt porro voluptas dolorum recusandae doloribus id fugit beatae tenetur aperiam ea expedita </p>
+    
+    <b>Apr. 9 2015</b>
+    <p class="entry">doloribus id fugit beatae tenetur aperiam ea expedita omnis explicabo delectus aspernatur cum quo architecto quidem perferendis ipsam doloremque beatae provident nesciunt eos atque ipsum quas repudiandae qui asperiores officia totam maxime veniam tempora sunt ut neque rem deleniti perspiciatis dolorem vitae non nam ducimus harum quos minima et iusto consequatur culpa eum mollitia reiciendis magnam nisi suscipit</p>
+    
+    <footer>
+    <a target="_blank" href="https://twitter.com/TutorialDoctor">Twitter</a>
+    <a target="_blank" href="https://github.com/TutorialDoctor">Github</a>
+    <a  target="_blank" href="https://www.linkedin.com/in/raphael-smith-6b5171b0">LinkeIn</a>
+    </footer>
+    </body>
+</html>
