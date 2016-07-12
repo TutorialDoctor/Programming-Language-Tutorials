@@ -1,5 +1,5 @@
 # Read This
 
 Blog tutorial in the works!
-- asa
-- asdf
+
+1. Download [Brackets](http://brackets.io)
