@@ -1,6 +1,5 @@
 # Read This
 
-Welcome
-
+Blog tutorial in the works!
 - asa
 - asdf
