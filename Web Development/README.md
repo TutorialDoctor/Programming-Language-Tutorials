@@ -7,7 +7,7 @@ Here you will learn the basics of web development.
 5. Click on the index.html file and preview it in a browser by going to "File" and then to "Live Preview"
 
 
-![](web_development_basics/screenshot.png)
+![](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/web_development_basics/tutorial1/screenshot.png?raw=true)
 
 
 
