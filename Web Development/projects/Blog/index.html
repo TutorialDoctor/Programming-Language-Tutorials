@@ -8,15 +8,18 @@
 </head>
     
 <body>
-    <h1 id="title">My Blog</h1>
+    <h1 id="title">Raphael's Blog</h1>
     <img src="http://icons.iconarchive.com/icons/hopstarter/face-avatars/256/Male-Face-G3-icon.png"/>
     <br>
     
-    <i id="quote">No brighter than the next guy. Certainly brighter than the last guy.  <a id="email" href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Email Me</a></i>
+    <p id="date">Date: </p>
+    
+    <p id="quote">No brighter than the next guy. Certainly brighter than the last guy.  <a id="email" href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Email Me</a></p>
     
     <br>
     
     <button onclick="change_text()">Press Me if you dare</button>
+    <button onclick="add()">Add</button>
     
     
     <input type="button" value="HelloAgain" id="b1">
@@ -39,6 +42,17 @@
     
     <b>Apr. 9 2015</b>
     <p class="entry">doloribus id fugit beatae tenetur aperiam ea expedita omnis explicabo delectus aspernatur cum quo architecto quidem perferendis ipsam doloremque beatae provident nesciunt eos atque ipsum quas repudiandae qui asperiores officia totam maxime veniam tempora sunt ut neque rem deleniti perspiciatis dolorem vitae non nam ducimus harum quos minima et iusto consequatur culpa eum mollitia reiciendis magnam nisi suscipit</p>
+    <div id="div1"></div>
+    
+    <script>
+        function add(){
+        var para = document.createElement("p");
+        var node = document.createTextNode("Entry:  "+document.getElementById("t_area").value);
+        para.appendChild(node);
+
+        var element = document.getElementById("div1");
+        element.appendChild(para);}
+    </script>
     
     <footer>
     <a target="_blank" href="https://twitter.com/TutorialDoctor">Twitter</a>

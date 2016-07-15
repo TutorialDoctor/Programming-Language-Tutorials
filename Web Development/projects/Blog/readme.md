@@ -1,5 +1,3 @@
 # Read This
 
-Blog tutorial in the works!
-- asa
-- asdf
+Create a personal blog with HTML, CSS and Javascript
